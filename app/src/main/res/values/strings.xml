@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Listen</string>
+
+    <string name="shareholding_composition">Shareholding Composition</string>
+    <string name="shareholding_composition_analysis">Shareholding Composition Analysis</string>
+    <string name="top_shareholders">Top Shareholders</string>
+    <string name="buyers_sellers_report">Buyers/Sellers Report</string>
+    <string name="movement_in_shareholding">Movement In Shareholding</string>
+    <string name="CBR">CBR</string>
+    <string name="BxConstructionUpdate">Bx - Construction Update</string>
+    <string name="Tracker">Tracker</string>
+    <string name="ProjectDetails">Project Details</string>
+    <string name="Top10Tenants">Top 10 Tenants</string>
+    <string name="MisReports">MIS Reports</string>
+    <string name="PortfolioInfo">Portfolio Info</string>
+    <string name="holdings">Holdings</string>
+    <string name="company">Company</string>
+    <string name="shareholders">Shareholders</string>
+    <string name="category">Category</string>
+    <string name="holdings_">% Holding</string>
+    <string name="as_on_date">As On Date</string>
+    <string name="apply_filters">Apply Filter</string>
+    <string name="lblshareholding">Shareholding</string>
+
+</resources>
