@@ -25,7 +25,6 @@ class SecondActivity : BaseActivity<ActivitySecondBinding>() {
         mBinding = binding
 
         mBinding.rvDemo.apply {
-            adapterDemo.list = DataModel.secondAdapterDemo(context)
             adapter = adapterDemo
         }
     }

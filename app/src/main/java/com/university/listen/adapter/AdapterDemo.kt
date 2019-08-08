@@ -22,7 +22,7 @@ class AdapterDemo(val context: Any) : BaseAdapter<ItemsDemoBinding>() {
         mBinding.apply {
             this.activity = context as FirstActivity
             this.position = p1
-            mBinding.txtTitle.text = DataModel.dataAdapterDemo(context).toString()
+            mBinding.txtTitle.text = DataModel.dataAdapterDemo(context)[p1].toString()
         }
 
     }
